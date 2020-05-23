@@ -39,7 +39,8 @@
           built with <a href="https://gohugo.io/">Hugo, a static site generator</a>
           <br>
           {{ $hash := .GitInfo.AbbreviatedHash }}
-          last update: {{ .GitInfo.AuthorDate }} (<a href="https://github.com/doertscho/arf-kiel/commit/{{ $hash }}">{{ $hash }}</a>)
+          last change: {{ .GitInfo.AuthorDate.Format "Jan 2, 2006" }}
+          (<a href="https://github.com/doertscho/arf-kiel/commit/{{ $hash }}">{{ $hash }}</a>)
           <br>
           <a href="https://github.com/doertscho/arf-kiel">view or fork source code on GitHub</a>
         </p>

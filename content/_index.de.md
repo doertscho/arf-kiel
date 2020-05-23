@@ -7,8 +7,42 @@ menu:
 
 # Wir bringen "Aussie Rules" nach Kiel!
 
-Das hier ist der nützlichste und klügste Blindtext der ganzen Welt, weil er dir genau sagt, wann 100 Zeichen vorbei sind (gleich nach der Zahl). Kaum begreift man das Prinzip, zählt der Text schon 200 Zeichen, inklusive Leerschläge. Damit hast du nun eine geniale Methode zur Hand, einen Text von 300 Zeichen Länge zu visualisieren. Mal angenommen, du willst sehen, welch ansprechenden Textkörper 400 Zeichen bilden können – jetzt hast du ein Mass dafür. Und nachdem dieser amüsante Blindtext mit 500 Zeichen die Hälfte erreicht hat, könnte man eine Betrachtung anstellen, die sich schon über die 600er Marke hinaus erstreckt: Haben wir es hier wirklich mit Blindtext zu tun, oder könnte man nach 700 präzis getexteten Zeichen nicht schon von Content sprechen? Mit dieser Frage überrollen wir die 800-Zeichen-Grenze und bedanken uns herzlich, dass du diesen vermeintlich blinden Text von mehr als 900 Zeichen Länge tatsächlich gelesen hast. Damit setzen wir den Schlusspunkt, und zwar hinter die 999.
+Australian Rules Football ist ein vielseitiger, schneller und actionreicher Sport,
+und in seinem Heimatland der Zuschauersport Nummer eins.
+In Deutschland hingegen ist er bisher kaum bekannt,
+auch in Kiel gab es bisher keinen Verein.
+Das wollen wir ändern, 
+denn wir finden, dieser Sport verdient auch hier mehr Aufmerksamkeit.
 
-Das hier ist der nützlichste und klügste Blindtext der ganzen Welt, weil er dir genau sagt, wann 100 Zeichen vorbei sind (gleich nach der Zahl). Kaum begreift man das Prinzip, zählt der Text schon 200 Zeichen, inklusive Leerschläge. Damit hast du nun eine geniale Methode zur Hand, einen Text von 300 Zeichen Länge zu visualisieren. Mal angenommen, du willst sehen, welch ansprechenden Textkörper 400 Zeichen bilden können – jetzt hast du ein Mass dafür. Und nachdem dieser amüsante Blindtext mit 500 Zeichen die Hälfte erreicht hat, könnte man eine Betrachtung anstellen, die sich schon über die 600er Marke hinaus erstreckt: Haben wir es hier wirklich mit Blindtext zu tun, oder könnte man nach 700 präzis getexteten Zeichen nicht schon von Content sprechen? Mit dieser Frage überrollen wir die 800-Zeichen-Grenze und bedanken uns herzlich, dass du diesen vermeintlich blinden Text von mehr als 900 Zeichen Länge tatsächlich gelesen hast. Damit setzen wir den Schlusspunkt, und zwar hinter die 999.
+Jede und jeder ist herzlich eingeladen,
+mitzumachen und den Sport auszuprobieren.
+Absolut unverbindlich, und völlig egal,
+ob ihr schon mal gespielt habt oder nicht,
+ob groß oder klein, alt oder jung, dick oder dünn.
+"Aussie Rules" ist ein äußerst vielseitiger Sport,
+und darum gibt es auch für jede und jeden eine Rolle,
+wo auch immer eure individuellen Stärken liegen.
+Mehr zum Sport: [Was ist Australian Rules Football?]({{< relref "about-arf" >}})
 
-Das hier ist der nützlichste und klügste Blindtext der ganzen Welt, weil er dir genau sagt, wann 100 Zeichen vorbei sind (gleich nach der Zahl). Kaum begreift man das Prinzip, zählt der Text schon 200 Zeichen, inklusive Leerschläge. Damit hast du nun eine geniale Methode zur Hand, einen Text von 300 Zeichen Länge zu visualisieren. Mal angenommen, du willst sehen, welch ansprechenden Textkörper 400 Zeichen bilden können – jetzt hast du ein Mass dafür. Und nachdem dieser amüsante Blindtext mit 500 Zeichen die Hälfte erreicht hat, könnte man eine Betrachtung anstellen, die sich schon über die 600er Marke hinaus erstreckt: Haben wir es hier wirklich mit Blindtext zu tun, oder könnte man nach 700 präzis getexteten Zeichen nicht schon von Content sprechen? Mit dieser Frage überrollen wir die 800-Zeichen-Grenze und bedanken uns herzlich, dass du diesen vermeintlich blinden Text von mehr als 900 Zeichen Länge tatsächlich gelesen hast. Damit setzen wir den Schlusspunkt, und zwar hinter die 999.
+Wir treffen uns seit Kurzem regelmäßig zum Training auf dem Nordmarksportfeld.
+Dabei seht ganz klar der Spaß im Vordergrund,
+und die Teilnahme ist immer absolut unverbindlich.
+Wir bringen Neulingen alle Grundlagen des Spiels bei
+und trainieren gemeinsam die vielseitigen Skills, die den Sport ausmachen.
+Mehr Informationen und die nächsten Termine findet ihr unter
+[Training]({{< relref "training" >}}).
+
+Lust, das mal auszuprobieren?
+Super!
+Dann meldet euch bei uns, oder kommt einfach zum nächsten Training vorbei.
+Und wenn ihr Fragen habt, dann fragt einfach drauf los.
+Ihr erreicht uns auf folgenden Wegen:
+
+{{< contact-options >}}
+
+Übrigens: Wir haben große Lust, 
+mittelfristig auch einen richtigen Verein zu gründen
+und Kiel damit auf die Landkarte der deutschen Liga zu bringen,
+der [AFL Germany](http://www.aflg.de/).
+Außerdem planen wir für alle, die Lust haben, weitere gemeinsame Aktivitäten –
+zum Beispiel Übertragungen von Spielen der australischen Profi-Liga.

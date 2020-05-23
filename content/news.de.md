@@ -3,7 +3,7 @@ title: Neues
 slug: neues
 menu: 
   main:
-    weight: 200
+    weight: 400
 ---
 
 # Neuste Meldungen
