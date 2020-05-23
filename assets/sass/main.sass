@@ -1,0 +1,30 @@
+@import defs, header, nav, footer, texts
+  
+body
+  background-color: #ffffff
+  margin: 0
+
+main
+  background-color: #eee
+  margin: 0
+  padding: 2 * $gu
+
+a
+  color: $primary
+  font-weight: bold
+  text-decoration: none
+
+  &:hover
+    color: $primary-light
+
+$width-threshold: 720px
+@media (min-width: $width-threshold)
+  body
+    background-image: url('/images/nordmarksportfeld.jpg')
+    background-size: cover
+    background-attachment: fixed
+
+  #container
+    width: $width-threshold
+    margin: $gu auto (20 * $gu)
+    box-shadow: 0 0 20px #666

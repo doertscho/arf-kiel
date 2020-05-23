@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} :: {{ .Site.Title }}</title>
+
+    {{ $style := resources.Get "sass/main.sass" | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Patua+One&display=swap">
+    
+  </head>
+  <body>
+
+    <div id="container">
+      <header>
+        <h1>Australian Rules Football in Kiel</h1>
+      </header>
+      <nav>
+        <ul>
+          {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+      <main>
+        {{ block "main" . }}
+        {{ end }}
+      </main>
+      <nav>
+        <ul>
+          {{ range .Site.Menus.footer }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+      <footer>
+        <p class="build-info">
+          built with <a href="https://gohugo.io/">Hugo, a static site generator</a>
+          <br>
+          {{ $hash := .GitInfo.AbbreviatedHash }}
+          last update: {{ .GitInfo.AuthorDate }} (<a href="https://github.com/doertscho/arf-kiel/commit/{{ $hash }}">{{ $hash }}</a>)
+          <br>
+          <a href="https://github.com/doertscho/arf-kiel">view or fork source code on GitHub</a>
+        </p>
+      </footer>
+    </div>
+
+  </body>
+</html>

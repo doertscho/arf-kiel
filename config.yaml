@@ -1,0 +1,10 @@
+baseURL: https://www.australian-rules-football-kiel.de
+languageCode: en-us
+title: Australian Rules Football in Kiel
+enableGitInfo: true
+DefaultContentLanguage: de
+languages:
+  de:
+    weight: 10
+  en:
+    weight: 20
