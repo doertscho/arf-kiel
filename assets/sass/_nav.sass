@@ -4,9 +4,45 @@ nav
   font-family: "Patua One", serif
   padding: 0 $gu
 
-  ul, li
-    display: inline
+  .show-icon, .hide-icon
+    padding: (0.66 * $gu) $gu
+    img
+      height: 1em
+
+  ul
+    display: block
+    margin: 0
     padding: 0
+
+  &.collapsing
+
+    text-align: right
+    .hide-icon
+      display: none
+    .show-icon
+      display: inline-block
+    ul
+      display: none
+
+    &.showing
+      text-align: left
+      .hide-icon
+        float: right
+        display: inline-block
+      .show-icon
+        display: none
+      ul
+        display: block
+    
+  &.collapsing ul li
+    display: block
+    padding: 0
+
+  &.non-collapsing ul li
+    display: inline
+
+    &.translation
+      float: right
 
   a
     color: $on-primary
@@ -23,7 +59,20 @@ nav
     vertical-align: text-bottom
     margin-right: 0.33 * $gu
 
-@media (min-width: $width-threshold)
-  .translation
-    float: right
+  @media (min-width: $width-threshold)
+    &.collapsing 
+
+      text-align: left
+
+      .hide-icon, .show-icon
+        display: none
+
+      ul
+        display: block
+      
+        li
+          display: inline
+
+          &.translation
+            float: right
   

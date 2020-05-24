@@ -16,7 +16,13 @@
       <header>
         <h1>Australian Rules Football in Kiel</h1>
       </header>
-      <nav>
+      <nav class="collapsing" id="main-nav">
+        <div class="show-icon" onclick="document.getElementById('main-nav').className = 'collapsing showing';">
+          <img alt="Show Menu" src="/images/icon_bars.png">
+        </div>
+        <div class="hide-icon" onclick="document.getElementById('main-nav').className = 'collapsing';">
+          <img alt="Hide Menu" src="/images/icon_times.png">
+        </div>
         <ul>
           {{ range .Site.Menus.main }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -28,7 +34,7 @@
         {{ block "main" . }}
         {{ end }}
       </main>
-      <nav>
+      <nav class="non-collapsing">
         <ul>
           {{ range .Site.Menus.footer }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -37,6 +43,20 @@
         </ul>
       </nav>
       <footer>
+        <p class="contact-options-small">
+          <a href="https://t.me/joinchat/BAoUfxYRy_kkCTTyCSOnUg">
+            <img alt="Telegram" src="/images/icon_telegram.png">
+          </a>
+          <a href="https://chat.whatsapp.com/HXiIFdg4Pug9MRkWABxa9U">
+            <img alt="WhatsApp" src="/images/icon_whatsapp.png">
+          </a>
+          <a href="mailto:info@arfk.de">
+            <img alt="E-Mail" src="/images/icon_email.png">
+          </a>
+          <a href="https://twitter.com/arf_kiel">
+            <img alt="Twitter" src="/images/icon_twitter.png">
+          </a>
+        </p>
         <p class="build-info">
           built with <a href="https://gohugo.io/">Hugo, a static site generator</a>
           <br>
