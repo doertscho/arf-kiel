@@ -1,6 +1,9 @@
 baseURL: https://www.australian-rules-football-kiel.de
 title: Australian Rules Football in Kiel
 enableGitInfo: true
+disableKinds:
+- taxonomy
+- taxonomyTerm
 DefaultContentLanguage: de
 languages:
   de:
