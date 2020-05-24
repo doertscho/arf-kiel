@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<html lang="{{ .Site.Language.Lang | default "de" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,6 +21,7 @@
           {{ range .Site.Menus.main }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
+          {{ partial "translation-link" . }}
         </ul>
       </nav>
       <main>
@@ -32,6 +33,7 @@
           {{ range .Site.Menus.footer }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
+          {{ partial "translation-link" . }}
         </ul>
       </nav>
       <footer>

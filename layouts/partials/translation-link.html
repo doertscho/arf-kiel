@@ -1,0 +1,17 @@
+
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+    {{ $translationLink := .Permalink}}
+    {{ $translationLang := .Lang }}
+    {{ range .Site.Languages }}
+      {{ if eq .Lang $translationLang }}
+        <li class="translation">
+          <a href="{{ $translationLink }}">
+            <img alt="" src="/images/language_{{ .Lang }}.png">
+            {{ .LanguageName }}
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
