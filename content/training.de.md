@@ -8,7 +8,7 @@ menu:
 
 # Training in Kiel
 
-{{< date-hint title="Nächster Termin:" date="Mittwoch, 27.05.2020, 18:00 Uhr" >}}
+{{< next-sessions >}}
 
 Unser Training hat später begonnen, als wir gehofft hätten,
 bedingt durch die allgemeinen Einschränkungen.
@@ -18,12 +18,11 @@ wir konnten am 20. Mai unsere erste Session abhalten.
 Es gelten Auflagen, und wir können noch nicht alle Aspekte des Spiels trainieren,
 sehr viele Übungen lassen sich aber sehr gut mit Sicherheitsabstand durchführen.
 
-Einen endgültig festgelegten regelmäßigen Termin haben wir auch noch nicht,
-dafür sind wir gerade in der Findungsphase.
-Falls ihr gern mitmachen wollt, 
-aber euch der Wochentag des nächsten Trainings nicht passt,
-dann meldet euch gerne, 
-wir beziehen euch in die Planungen mit ein und finden eine Lösung.
+Wir trainieren zur Zeit immer mittwochs um 18:00 Uhr.
+Falls ihr mitmachen wollt,
+aber euch dieser Termin nicht passt,
+dann meldet euch trotzdem gerne.
+Wir beziehen euch in die Planungen mit ein und finden eine Lösung.
 
 Jede und jeder ist bei unserem Training herzlich willkommen!
 Die meisten von uns sind noch absolute Anfänger,

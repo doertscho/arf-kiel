@@ -1,0 +1,18 @@
+next-sessions: 
+  other: Die nächsten Termine
+
+# weekdays
+Mon:
+  other: Mo
+Tue:
+  other: Di
+Wed:
+  other: Mi
+Thu:
+  other: Do
+Fri:
+  other: Fr
+Sat:
+  other: Sa
+Sun:
+  other: So

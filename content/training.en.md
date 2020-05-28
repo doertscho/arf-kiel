@@ -8,7 +8,7 @@ menu:
 
 # Our training sessions in Kiel
 
-{{< date-hint title="Next session:" date="Wed, 27th May 2020, 6pm" >}}
+{{< next-sessions >}}
 
 Our session started later than we had hoped,
 due to the safety restrictions.
@@ -18,9 +18,9 @@ There are still some limitations,
 and we can't practise all aspects of the sport yet,
 but there are many things that are very much compatible with safety distances.
 
-Also, please note that we don't really have a regular date for our sessions yet.
-If the day of our next session doesn't work for you,
-please get in touch and we'll consider your preferences in our planning!
+Our sessions are currently happening each week on Wednesday, 6pm.
+If that date doesn't work for you,
+please get in touch and we'll consider your preferences in our planning.
 
 Everybody is welcome to join the training!
 Most of us are absolute beginners,
