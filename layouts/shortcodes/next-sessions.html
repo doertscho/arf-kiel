@@ -6,9 +6,9 @@
     <div class="content">
       <div class="title">{{ i18n "next-sessions" }}</div>
       {{ $language := $.Page.Lang }}
-      {{ $dates := slice          "2020-06-03 18:00:00" }}
-      {{ $dates = $dates | append "2020-06-10 18:00:00" }}
-      {{ $dates = $dates | append "2020-06-17 18:00:00" }}
+      {{ $dates := slice          "2020-06-17 18:00:00" }}
+      {{ $dates = $dates | append "2020-06-24 18:00:00" }}
+      {{ $dates = $dates | append "2020-07-01 18:00:00" }}
       {{ range $dates }}
         {{ if eq $language "en" }}
           <div class="link">{{ dateFormat "Mon, Jan 2 2006, 3:04 pm" . }}</div>
