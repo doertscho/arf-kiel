@@ -6,14 +6,34 @@
     <div class="content">
       <div class="title">{{ i18n "next-sessions" }}</div>
       {{ $language := $.Page.Lang }}
-      {{ $dates := slice          "2020-06-17 18:00:00" }}
-      {{ $dates = $dates | append "2020-06-24 18:00:00" }}
-      {{ $dates = $dates | append "2020-07-01 18:00:00" }}
+      {{ $dates := slice          "2020-07-01 18:00:00 / Gewitter vorhergesagt, Training wird vermutlich verschoben / Thunderstorms predicted, session likely to be postponed" }}
+      {{ $dates = $dates | append "2020-07-08 18:00:00" }}
+      {{ $dates = $dates | append "2020-07-15 18:00:00" }}
       {{ range $dates }}
-        {{ if eq $language "en" }}
-          <div class="link">{{ dateFormat "Mon, Jan 2 2006, 3:04 pm" . }}</div>
+        {{ $parts := split . " / " }}
+        {{ $current := index $parts 0 }}
+        {{ $numParts := len $parts }}
+        {{ $warning := gt $numParts 1 }}
+        {{ if $warning }}
+          {{ if eq $language "en" }}
+            <div class="link-warning">
+              {{ dateFormat "Mon, Jan 2 2006, 3:04 pm" $current }}: {{ index $parts 2 }}
+            </div>
+          {{ else }}
+            <div class="link-warning">
+              {{ i18n (dateFormat "Mon" $current ) }}, {{ dateFormat "02.01.2006, 15:04 Uhr" $current }}: {{ index $parts 1 }}
+            </div>
+          {{ end }}
         {{ else }}
-          <div class="link">{{ i18n (dateFormat "Mon" . ) }}, {{ dateFormat "02.01.2006, 15:04 Uhr" . }}</div>
+          {{ if eq $language "en" }}
+            <div class="link">
+              {{ dateFormat "Mon, Jan 2 2006, 3:04 pm" $current }}
+            </div>
+          {{ else }}
+            <div class="link">
+              {{ i18n (dateFormat "Mon" $current ) }}, {{ dateFormat "02.01.2006, 15:04 Uhr" $current }}
+            </div>
+          {{ end }}
         {{ end }}
       {{ end }}
     </div>
