@@ -6,9 +6,9 @@
     <div class="content">
       <div class="title">{{ i18n "next-sessions" }}</div>
       {{ $language := $.Page.Lang }}
-      {{ $dates := slice          "2020-07-01 18:00:00 / Gewitter vorhergesagt, Training wird vermutlich verschoben / Thunderstorms predicted, session likely to be postponed" }}
-      {{ $dates = $dates | append "2020-07-08 18:00:00" }}
+      {{ $dates := slice          "2020-07-08 18:00:00" }}
       {{ $dates = $dates | append "2020-07-15 18:00:00" }}
+      {{ $dates = $dates | append "2020-07-22 18:00:00" }}
       {{ range $dates }}
         {{ $parts := split . " / " }}
         {{ $current := index $parts 0 }}
