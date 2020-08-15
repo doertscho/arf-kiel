@@ -8,7 +8,8 @@ menu: main
 
 Wenn ihr Fragen habt, dann meldet euch gerne bei uns.
 Ihr erreicht uns auf folgenden Wegen.
-Alternativ könnt ihr auch gerne einfach bei einem unserer Training-Termine vorbeikommen
+Alternativ könnt ihr auch gerne einfach
+bei unserem nächsten Training vorbeikommen
 und uns direkt ansprechen.
 
 {{< contact-options >}}

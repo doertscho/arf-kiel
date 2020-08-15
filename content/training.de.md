@@ -1,14 +1,15 @@
 ---
 title: Training
 slug: training-in-kiel
-menu: 
+menu:
   main:
     weight: 300
 ---
 
 # Training in Kiel
 
-{{< next-sessions >}}
+**Aktueller Hinweis: Für Montag, den 17.8., sind zur Zeit Gewitter vorhergesagt.
+Bitte prüft kurzfristig unsere Kanäle, eventuell wird das Training abgesagt.**
 
 Wir trainieren immer montags und mittwochs um 18:00 Uhr.
 Falls ihr mitmachen wollt,
@@ -27,7 +28,7 @@ idealerweise Fußballschuhe mit Gumminoppen.
 Wir trainieren auf dem Nordmarksportfeld,
 nahe der Kieler Uni.
 
-Karte aufrufen mit [Open Street Map](https://osm.org/go/0HsaQC7V?m=) 
+Karte aufrufen mit [Open Street Map](https://osm.org/go/0HsaQC7V?m=)
 oder [Google Maps](https://goo.gl/maps/2CHFeakWwtCYmMzH8)
 
 ![Karte Nordmarksportfeld](/images/map_nordmarksportfeld.jpg)

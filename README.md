@@ -1,6 +1,9 @@
-# arf-kiel
+# 🐨🏉ℹ️
 
-This repository contains the source code for the website [www.australian-rules-football-kiel.de](https://www.australian-rules-football-kiel.de).
+This repository contains the source code for the website
+of the Kiel Koalas Australian Football Club, hosted at
+[www.kiel-koalas.de](https://www.kiel-koalas.de) and
+[www.australian-rules-football-kiel.de](https://www.australian-rules-football-kiel.de).
 
 Please feel free to fork this repo or copy the source code and use it as a starting point for your own website project.
 

@@ -1,5 +1,5 @@
 @import defs, header, nav, footer, texts, elements
-  
+
 body
   background-color: $surface
   margin: 0
@@ -8,9 +8,10 @@ a
   color: $primary
   font-weight: bold
   text-decoration: none
+  white-space: nowrap
 
   &:hover
-    color: $primary-light
+    color: $secondary
 
 main
   background-color: $surface
@@ -33,4 +34,4 @@ main
   #container
     width: $width-threshold
     margin: $gu auto (20 * $gu)
-    box-shadow: 0 0 20px #666
+    // box-shadow: 0 0 20px #666

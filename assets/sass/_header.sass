@@ -1,12 +1,51 @@
 header
-  background-color: $primary-light
-  background-image: url(/images/footy.jpg)
-  background-size: cover
-  background-position: center
-  padding: (5 * $gu) $gu $gu
+
+  text-align: center
+
+  img
+    max-width: 40vw
 
   h1
-    display: inline-block
-    margin: 0
     padding: (0.66 * $gu) $gu
-    background-color: rgba(255, 255, 255, 0.75)
+    display: block
+    margin: 0
+    background-color: $primary
+    color: $on-primary
+
+  #welcome
+    padding: (0.66 * $gu) $gu
+    display: block
+    background-color: $surface
+    font-style: italic
+
+  @media (min-width: $width-threshold)
+
+    position: relative
+    height: 280px
+
+    img
+      position: absolute
+      left: 0
+      top: 0
+      z-index: 100
+
+    #header-text-elements
+      position: absolute
+      bottom: 0
+      left: 100px
+      right: 0
+
+    h1
+      padding-left: 140px
+      text-align: center
+
+    #welcome
+      padding-left: 140px
+      text-align: center
+
+    nav.collapsing
+      display: block
+      text-align: right
+
+      ul
+        display: inline-block

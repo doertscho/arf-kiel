@@ -1,7 +1,7 @@
 ---
-title: About ARF
-slug: about-australian-rules-football
-menu: 
+title: About AF
+slug: what-is-australian-football
+menu:
   main:
     weight: 200
 ---
@@ -26,7 +26,7 @@ Many claim it was also influenced by an ancient sport
 played by the Indinous Australians, called Marn Grook.
 The result is a fast-paced, action-packed game
 in which various different roles and player types come together
-and good team play is essential. 
+and good team play is essential.
 
 The size of teams and pitch tops pretty much every other sport –
 18 players per team are competing on an oval field of up to 185 by 155 meters.
@@ -41,7 +41,7 @@ Possession of the ball is generally disputed at all times.
 However, teams can win a free kick
 (and a few seconds of breathing space)
 when a ball that is kicked over a distance of at least 15 meters
-is directly caught by a team member.
+is caught directly out of the air.
 
 To get a first impression of how Aussie Rules works,
 check out these [beginner-friendly videos](https://afleurope.org/play-afl/)

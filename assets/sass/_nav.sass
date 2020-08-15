@@ -1,6 +1,6 @@
 nav
-  background-color: $primary
-  color: $on-primary
+  background-color: $secondary
+  color: $on-secondary
   font-family: "Patua One", serif
   padding: 0 $gu
 
@@ -33,7 +33,7 @@ nav
         display: none
       ul
         display: block
-    
+
   &.collapsing ul li
     display: block
     padding: 0
@@ -45,14 +45,14 @@ nav
       float: right
 
   a
-    color: $on-primary
+    color: $on-secondary
     display: inline-block
     padding: (0.66 * $gu) $gu
     text-decoration: none
 
     &:hover
-      background-color: $primary-light
-      color: $on-primary
+      background-color: $secondary-light
+      color: $on-secondary
 
   .translation img
     height: 1em
@@ -60,7 +60,7 @@ nav
     margin-right: 0.33 * $gu
 
   @media (min-width: $width-threshold)
-    &.collapsing 
+    &.collapsing
 
       text-align: left
 
@@ -69,10 +69,9 @@ nav
 
       ul
         display: block
-      
+
         li
           display: inline
 
           &.translation
             float: right
-  
