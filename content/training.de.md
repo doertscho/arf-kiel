@@ -8,9 +8,6 @@ menu:
 
 # Training in Kiel
 
-**Aktueller Hinweis: Für Montag, den 17.8., sind zur Zeit Gewitter vorhergesagt.
-Bitte prüft kurzfristig unsere Kanäle, eventuell wird das Training abgesagt.**
-
 Wir trainieren immer montags und mittwochs um 18:00 Uhr.
 Falls ihr mitmachen wollt,
 aber euch diese Termine nicht passen,

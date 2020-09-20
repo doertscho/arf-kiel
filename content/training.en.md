@@ -8,9 +8,6 @@ menu:
 
 # Our training sessions in Kiel
 
-**Please note: There's thunderstorms predicted for Monday, the 17th August.
-Please check our channels, we may cancel training on that day.**
-
 Our sessions take place every Monday and Wednesday from 6pm.
 If those days doesn't work for you,
 please get in touch anyway
