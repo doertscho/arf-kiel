@@ -8,10 +8,15 @@ menu:
 
 # Our training sessions in Kiel
 
-Our sessions take place every Monday and Wednesday from 6pm.
-If those days doesn't work for you,
-please get in touch anyway
-and we'll try to consider your preferences in our planning.
+With the days getting shorter and shorter,
+we have decided to put our weekday training on hold
+as there's no daylight any more.
+We'll now meet once every week on the weekend.
+There's no fixed date for this yet,
+for the time being we will meet either Saturday or Sunday
+depending on weather and availability.
+If you are interested,
+please get in touch and we will keep you posted about the next sessions!
 
 Everybody is welcome to join the training!
 Most of us are absolute beginners,

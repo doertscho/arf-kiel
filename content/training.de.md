@@ -8,11 +8,16 @@ menu:
 
 # Training in Kiel
 
-Wir trainieren immer montags und mittwochs um 18:00 Uhr.
-Falls ihr mitmachen wollt,
-aber euch diese Termine nicht passen,
-dann meldet euch trotzdem gerne.
-Wir beziehen euch in die Planungen mit ein und versuchen, eine Lösung zu finden.
+Da die Tage immer kürzer werden
+und uns abends kein Tageslicht mehr zur Verfügung steht,
+haben wir unsere bisherigen Termine unter der Woche pausiert.
+Wir treffen uns nun einmal pro Woche am Wochenende.
+Dafür gibt es bisher keinen festen Termin –
+bis auf Weiteres werden wir je nach Wetter und Verfügbarkeit
+mal samstags, mal sonntags trainieren,
+jeweils um die Mittagszeit oder am frühen Nachmittag.
+Bitte meldet euch bei uns, 
+dann halten wir euch über die nächsten Termine auf dem Laufenden!
 
 Jede und jeder ist bei unserem Training herzlich willkommen!
 Die meisten von uns sind noch absolute Anfänger,
