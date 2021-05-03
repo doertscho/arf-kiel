@@ -1,51 +1,83 @@
+@import defs
+
 header
+  $spacing: 200px
+  $logo-width: 150px
 
-  text-align: center
+  position: absolute
+  left: -1 * $spacing
+  top: -3 * $spacing
+  right: -1 * $spacing
 
-  img
-    max-width: 40vw
+  #logo
+    position: absolute
+    top: 3 * $spacing
+    left: $spacing
+    width: 30vw
+    z-index: 1000
 
-  h1
-    padding: (0.66 * $gu) $gu
+  #header-bars
+    transform: rotate(-4deg)
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.3)
+
+  #title-bar
+    background-color: $koala-blue
+    padding-top: 3 * $spacing + 1.66 * $gu
+    padding-bottom: 0.66 * $gu
     display: block
+    font-family: "Patua One", serif
+    font-size: 5.5vw
     margin: 0
-    background-color: $primary
     color: $on-primary
 
-  #welcome
+  #slogan-bar
     padding: (0.66 * $gu) $gu
     display: block
     background-color: $surface
     font-style: italic
 
+  #nav-bar
+    background-color: $koala-red
+
+  #title-bar,
+  #nav-bar
+    padding-left: calc(30vw + #{$spacing} - 10px)
+
+  #slogan-bar
+    padding-left: calc(37vw + #{$spacing})
+
+  @media (min-width: 10 * $logo-width / 3)
+    #logo
+      width: $logo-width
+  
+    #title-bar,
+    #nav-bar
+      padding-left: $logo-width + $spacing - 10px
+  
+  @media (min-width: 600px)
+    #title-bar
+      font-size: 33px
+    
+    #slogan-bar
+      padding-left: $spacing + $logo-width + 72px
+
   @media (min-width: $width-threshold)
+    position: fixed
 
-    position: relative
-    height: 280px
-
-    img
-      position: absolute
-      left: 0
+    #logo
+      position: fixed
       top: 0
-      z-index: 100
-
-    #header-text-elements
-      position: absolute
-      bottom: 0
-      left: 100px
-      right: 0
-
-    h1
-      padding-left: 140px
-      text-align: center
-
-    #welcome
-      padding-left: 140px
-      text-align: center
+      left: calc((100vw - #{$width-threshold}) / 2)
+  
+    #title-bar,
+    #nav-bar
+      padding-left: calc(((100vw - #{$width-threshold}) / 2) + #{$spacing} + #{$logo-width} - 10px)
+    
+    #slogan-bar
+      padding-left: calc(((100vw - #{$width-threshold}) / 2) + #{$spacing} + #{$logo-width} + 72px)
 
     nav.collapsing
       display: block
-      text-align: right
 
       ul
         display: inline-block

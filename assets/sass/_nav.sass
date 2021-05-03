@@ -5,9 +5,11 @@ nav
   padding: 0 $gu
 
   .show-icon, .hide-icon
+    cursor: pointer
     padding: (0.66 * $gu) $gu
     img
       height: 1em
+      margin-right: 0.66 * $gu
 
   ul
     display: block
@@ -16,7 +18,6 @@ nav
 
   &.collapsing
 
-    text-align: right
     .hide-icon
       display: none
     .show-icon
@@ -25,9 +26,7 @@ nav
       display: none
 
     &.showing
-      text-align: left
       .hide-icon
-        float: right
         display: inline-block
       .show-icon
         display: none
