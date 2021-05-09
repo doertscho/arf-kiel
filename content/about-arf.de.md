@@ -8,42 +8,46 @@ menu:
 
 # Was ist Australian Football?
 
-Noch nie etwas von Australian Rules Football gehört?
-Keine Sorge, da seid ihr nicht allein.
 Außerhalb seiner Heimat kennt es kaum jemand,
-in Australien hingegen ist es die populärste Sportart überhaupt.
-Die Profi-Liga ist gemessen am Zuschauerschnitt
-eine der fünf größten der Welt.
-Das "Grand Final" zum Abschluss der Saison zieht sogar jedes Jahr
-100.000 Menschen in das größte Stadion des Landes,
-den Melbourne Cricket Ground,
+in Australien hingegen ist „Footy“ die populärste Sportart überhaupt.
+Die Profi-Liga ist eine der fünf bestbesuchten Sportligen der Welt.
+Das „Grand Final“ zum Abschluss der Saison zieht sogar jedes Jahr
+100.000 Menschen in das größte Stadion des Landes –
+den Melbourne Cricket Ground –
 und ist damit die größte Einzelsportveranstaltung der Welt.
 
-![Melbourne Cricket Ground](/images/mcg.jpg)
-(Quelle: [Flickerd / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_AFL_Grand_Final_panorama_during_national_anthem.jpg))
+{{< inline-image
+    "/images/mcg.jpg"
+    "Der Melbourne Cricket Ground vor einem Spiel"
+    "Der Melbourne Cricket Ground vor einem Spiel (Quelle: [Flickerd / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_AFL_Grand_Final_panorama_during_national_anthem.jpg))"
+>}}
 
-Australian Rules Football kombiniert Elemente des europäischen Fußballs,
-Rugbys und anderer Ballsportarten.
-Der Legende nach wurde es außerdem von einem uralten Aborigine-Sports namens Marn Grook beeinflußt.
+Australian Football – manchmal auch bekannt als Australian Rules Football oder Aussie Rules –
+kombiniert Elemente des europäischen Fußballs, Rugbys und anderer Ballsportarten.
+Der Legende nach wurde es außerdem von einem uralten Sport der australischen Ureinwohner beeinflusst.
 Das Ergebnis ist ein vielseitiges, tempo- und actionreiches Spiel,
-in dem viele verschiedene Rollen und Spielertypen zusammenkommen und starkes Teamwork unerlässlich ist.
+in dem viele verschiedene Rollen und Spielweisen zusammenkommen und starkes Teamwork unerlässlich ist.
 
-Die Größe der Teams und des Spielfelds überragt die meisten anderen Sportarten –
+## Grundlegende Regeln
+
+Die Größe der Teams und des Spielfelds überragt die meisten anderen Sportarten:
 18 Spieler\*innen pro Team
-stehen sich auf einem (bei den Profis) bis zu 185x155m großen, ovalen Feld gegenüber,
-und versuchen, den ebenfalls ovalen Ball durch die Torstangen zu schießen.
+stehen sich auf einem bis zu 185x155m großen, ovalen Feld gegenüber.
+Sie versuchen, den ebenfalls ovalen Ball durch die Torstangen zu schießen.
 Um sich diesen anzunähern,
 darf mit dem Ball gelaufen werden
 oder durch Kicken oder Fausten zu Mitspieler\*innen gepasst werden.
 
-Australian Rules Football ist ein Vollkontaktsport,
+Australian Football ist ein Vollkontaktsport,
 es darf aber stets nur die ballführende Person angegriffen werden,
 und es gibt dafür klare Regeln.
 Grundsätzlich ist der Ballbesitz stets umstritten.
 Ein Team kann sich aber einen Freistoß verdienen
 (und damit ein paar wertvolle Sekunden Verschnaufpause),
-wenn ein Kick über eine Distanz von mindestens 15m
+wenn ein Kick über eine Distanz von mindestens 15 m
 direkt aus der Luft gefangen wird.
+
+## Weitere Informationen
 
 Um einen ersten Eindruck zu vermitteln,
 hat der europäische Verband ein paar

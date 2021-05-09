@@ -3,6 +3,7 @@
 body
   background-color: $surface
   margin: 0
+  overflow-x: hidden
 
 a
   color: $primary
@@ -15,7 +16,7 @@ a
 
 main
   background-color: $surface
-  margin: 0
+  margin: 50vh 0 0
   padding: 2 * $gu
 
   a
@@ -25,13 +26,64 @@ main
   img
     width: 100%
 
-@media (min-width: $width-threshold)
-  body
-    background-image: url(/images/nordmarksportfeld.jpg)
-    background-size: cover
-    background-attachment: fixed
+#background
+  z-index: -100
+  position: absolute
+  left: -20px
+  right: -20px
+  background-size: cover
+  background-position: center
+  height: 550px
+  top: 0
+  filter: blur(8px)
 
-  #container
-    width: $width-threshold
-    margin: $gu auto (20 * $gu)
-    // box-shadow: 0 0 20px #666
+#background-focus
+  z-index: -50
+  position: absolute
+  left: 0
+  right: 0
+  height: 470px
+  top: 40px
+  #background-focus-image
+    background-size: cover
+    background-position: center
+    margin: 0 auto
+    height: 470px
+
+@media (min-width: $width-threshold)
+
+  #screen
+    position: relative
+    z-index: 10
+    padding-bottom: 20 * $gu
+
+    #screen-top
+      position: absolute
+      top: 60px
+      height: 300px
+      left: -200px
+      right: -200px
+      z-index: -10
+      background-color: #dedede
+      transform: rotate(2deg)
+      #screen-top-bar
+        background-color: $koala-red
+        height: 40px
+        box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.3)
+    #screen-background
+      background-color: #dedede
+      position: absolute
+      top: 200px
+      bottom: 0
+      left: 0
+      right: 0
+      z-index: -20
+
+    #container
+      width: $width-threshold
+      margin: $gu auto 0
+      z-index: 100
+      box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.3)
+
+    main
+      padding: 40px 100px

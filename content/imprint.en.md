@@ -10,7 +10,9 @@ menu: footer
 
 Stefan Röpstorff
 
-Contact: stefan.roepstorff@gmail.com
+on behalf of the Kiel Koalas Australian Football Club
+
+Contact: stefan@kiel-koalas.de
 
 ## Note on links to external sites
 

@@ -1,0 +1,10 @@
+{{ $src := .Get 0 }}
+{{ $alt := .Get 1 }}
+{{ $caption := .Get 2 }}
+
+<div class="inline-image">
+    <img alt="{{ $alt }}" src="{{ $src }}">
+    {{ with $caption }}
+    <div class="caption">{{ . | markdownify }}</div>
+    {{ end }}
+</div>
