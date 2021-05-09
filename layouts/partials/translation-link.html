@@ -1,7 +1,7 @@
 
 {{ if .IsTranslated }}
   {{ range .Translations }}
-    {{ $translationLink := .Permalink}}
+    {{ $translationLink := .RelPermalink}}
     {{ $translationLang := .Lang }}
     {{ range .Site.Languages }}
       {{ if eq .Lang $translationLang }}
