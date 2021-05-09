@@ -10,7 +10,9 @@ menu: footer
 
 Stefan Röpstorff
 
-Kontakt: stefan.roepstorff@gmail.com
+im Auftrag des Kiel Koalas Australian Football Club e.V.
+
+Kontakt: stefan@kiel-koalas.de
 
 ## Haftungsausschluss
 

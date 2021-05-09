@@ -2,8 +2,51 @@
 title: Our club
 slug: our-club
 menu:
-main:
-weight: 250
+  main:
+    weight: 250
 ---
 
 # Our club
+
+In May 2020, a small group of people from Kiel and nearby areas
+met for the first time to get to know a sport
+that most of them had never heard of.
+Things moved fast from there on:
+More and more people kept joining in,
+and everyone was keen to establish Australian Football in Kiel.
+Only three months later, in August 2020,
+the Kiel Koalas were officially established as a club.
+
+## Our goals
+
+The primary purpose of our club is to promote the sport of Australian Football
+in Kiel and the surrounding regions
+and support its development throughout Germany.
+We want to make as many people as possible fall in love with our sport
+and add to the diverse sports landscape in our home town.
+To achieve this, we want to create different opportunities for everyone
+to try and to experience the sport.
+
+Further than that, we believe that (all) sports clubs
+have great potential to make a positive impact on ourselves and our community.
+Sport brings together people from all walks of life,
+creating connections and building understanding.
+It motivates people and inspires them.
+Skills and values that you learn from the team work on and off the field
+can help you in all aspects of your life.
+
+## We appreciate your support!
+
+That's why we're not only looking for new players
+but value any type of engagement:
+Helping out at training or on game day,
+logistic support,
+reports and articles getting the word out,
+cooperations, sponsoring –
+we appreciate any ideas that you have!
+And, of course, financial support is also a great help for us –
+whether that's a passive club membership or a one-off donation.
+
+In order to become a member, and for any other requests,
+please get in touch via info@kiel-koalas
+or through social media (see [Contact](/contact)).

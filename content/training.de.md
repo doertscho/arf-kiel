@@ -8,16 +8,28 @@ menu:
 
 # Training in Kiel
 
-Da die Tage immer kürzer werden
-und uns abends kein Tageslicht mehr zur Verfügung steht,
-haben wir unsere bisherigen Termine unter der Woche pausiert.
-Wir treffen uns nun einmal pro Woche am Wochenende.
-Dafür gibt es bisher keinen festen Termin –
-bis auf Weiteres werden wir je nach Wetter und Verfügbarkeit
-mal samstags, mal sonntags trainieren,
-jeweils um die Mittagszeit oder am frühen Nachmittag.
-Bitte meldet euch bei uns, 
-dann halten wir euch über die nächsten Termine auf dem Laufenden!
+Ab dem 17. Mai 2021 ist es so weit:
+Wir können uns wieder zum Trainieren treffen!
+Ab diesem Tag ist in Schleswig-Holstein auch kontaktintensiver Sport
+in Gruppen von bis zu zehn Personen wieder erlaubt.
+Je nach Bedarf werden wir uns dann auf mehrere Gruppen aufteilen.
+
+Wir trainieren immer **montags und mittwochs ab 18 Uhr**.
+Das Training findet statt auf dem Nordmarksportfeld,
+nahe der Kieler Uni.
+
+## Aus gegebenem Anlass
+
+Wir sind überzeugt, dass wir unser Training ohne Bedenken durchführen können.
+Wir trainieren an der frischen Luft auf einer weitläufigen Sportanlage.
+Es liegt in der Natur unseres Sports,
+dass bei den meisten Übungen
+mehr als nur der erforderliche Mindestabstand eingehalten wird.
+Von allen teilnehmenden Personen werden wir Kontaktdaten erfassen,
+und wir rufen euch dazu auf,
+jeweils vor dem Training einen Schnelltest durchzuführen.
+
+## Offen für alle!
 
 Jede und jeder ist bei unserem Training herzlich willkommen!
 Die meisten von uns sind noch absolute Anfänger,
@@ -27,10 +39,10 @@ Ihr müsst nichts Besonderes mitbringen.
 Für Rasen geeignete Schuhe sind von Vorteil,
 idealerweise Fußballschuhe mit Gumminoppen.
 
-Wir trainieren auf dem Nordmarksportfeld,
-nahe der Kieler Uni.
+Bitte beachtet, dass uns zurzeit leider noch keine Umkleidekabinen
+oder Sanitäranlagen zur Verfügung stehen.
 
 Karte aufrufen mit [Open Street Map](https://osm.org/go/0HsaQC7V?m=)
 oder [Google Maps](https://goo.gl/maps/2CHFeakWwtCYmMzH8)
 
-![Karte Nordmarksportfeld](/images/map_nordmarksportfeld.jpg)
+{{< inline-image "/images/map_nordmarksportfeld.jpg" "Karte unseres Trainingsortes" >}}

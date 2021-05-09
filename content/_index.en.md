@@ -5,29 +5,29 @@ menu:
     weight: 100
 ---
 
-# Aussie Rules is coming to Kiel!
+# G'Day Kiel! We're looking for new Koalas.
 
-Want to try a new sport and make new friends? Great!
-Ever heard of Australian Football? No?
-That's no problem at all – you're certainly not alone.
-(If you HAVE heard of that sport,
-maybe you're an Aussie far away from home,
-missing a kick of the footy –
-you are just as welcome to join us of course,
-and we can probably learn a lot from you!)
+**We're inviting you all to get to know our sport: Australian Football.
+Never heard of it before? Don't worry, you're certainly not alone.**
 
-Australian Rules Football is a fast and action-packed sport,
-and the most popular one in its native country.
-In Germany, however, it is barely known so far,
-and there was no club in Kiel either.
+In its native country, Australian Football is the number one spectator sport.
+The professional league, the AFL,
+is one of the five most-attended sports leagues in the world.
+In Germany, however, barely anyone knows the sport.
 We want to change that!
-We believe that this great game deserves more attention outside Australia too.
 
-Regardless of whether you know the sport or want to try something new,
-and no matter your gender, age, height, shape or whatever.
-Aussie Rules is such a multi-faceted sport that there's a place for anyone,
-no matter what your individual strengths are.
-More info about the game: [About AF]({{< relref "about-arf" >}})
+## What's it all about?
+
+Australian Football is a fast and action-packed sport
+in which there is a role for everyone,
+no matter your gender, age, height, shape or whatever.
+Good teamwork is absolutely mandatory.
+And it's simply great fun to play and to watch.
+Find out more here: [About AF]({{< relref "about-arf" >}})
+
+{{< inline-image "/images/equipment.jpg" >}}
+
+## Join us!
 
 We're building up Kiel's first Australian Football club,
 and we're inviting all of you to join us!
@@ -52,17 +52,17 @@ or just pop around to one of the next training sessions.
 
 {{< contact-options >}}
 
-And by the way:
-We're currently preparing the stuff we need
-to become an officially registered club.
-And starting from next year,
-the Kiel Koalas Australian Football Club
-will be part of the [AFL Germany](http://www.aflg.de/)
-and represent Kiel in the German league.
-Stay tuned!
+## Our club
+
+Since the summer of 2020,
+the **Kiel Koalas Australian Football Club e.V.**
+is an officially registered club.
+We're member of the local and regional sports associations,
+and we represent our home town in the German footy league, the [AFL Germany](http://www.aflg.de/).
+
 If you're interested in supporting this endeavour,
 building up the club, promoting the sport in Kiel,
 and getting to know the Australian Football community in Germany –
 get in touch, we appreciate any support!
 
-![Group photo after a training session](/images/team_picture.jpg)
+{{< inline-image "/images/team-after-training.jpg" >}}

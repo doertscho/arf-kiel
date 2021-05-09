@@ -12,10 +12,14 @@ Momentan solltet ihr unsere [Instagram-Seite](https://instagram.com/kiel_koalas)
 besuchen,
 dort findet ihr unsere aktuellsten Meldungen!
 
-## Wir sind gestartet – Aussie Rules ist in Kiel angekommen!
-Vielen Dank an alle, die an der ersten Training-Session am 20. Mai teilgenommen haben,
-hat sehr viel Spaß gebracht!
-Wir treffen uns das nächste Mal am Mittwoch, den 27. Mai, um 18:00 Uhr
-(siehe [Training]({{< relref "training" >}})).
+## Es geht wieder los – wir können wieder trainieren!
 
-([Diese Meldung auf Twitter](https://twitter.com/arf_kiel/status/1263828902264418304))
+Ab dem 17. Mai 2021 werden wir (aller Voraussicht nach)
+unser Training wieder aufnehmen können.
+Das Land Schleswig-Holstein erlaubt dann auch kontaktintensiven Sport
+in Gruppen von bis zu zehn Leuten.
+Wir werden uns je nach Bedarf in mehrere Trainingsgruppen aufteilen.
+Meldet euch bei uns, wenn ihr Interesse habt!
+Wir haben nach der langen Pause große Lust,
+endlich mal wieder gemeinsam zu trainieren,
+und wir sind da sicherlich nicht die einzigen.
