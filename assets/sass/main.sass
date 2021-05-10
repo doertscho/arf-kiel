@@ -33,24 +33,38 @@ main
   right: -20px
   background-size: cover
   background-position: center
-  height: 550px
+  height: 60vh
   top: 0
   filter: blur(8px)
+  background-image: url(/images/match-action-03.jpg)
 
 #background-focus
   z-index: -50
   position: absolute
   left: 0
   right: 0
-  height: 470px
-  top: 40px
+  height: 400px
+  top: 85px
   #background-focus-image
     background-size: cover
     background-position: center
     margin: 0 auto
-    height: 470px
+    height: 400px
+    background-image: url(/images/match-action-03.jpg)
+    max-width: $width-threshold
 
 @media (min-width: $width-threshold)
+
+  #background
+    background-image: url(/images/match-action-02.jpg)
+
+  #background-focus
+    top: 40px
+    height: 470px
+    #background-focus-image
+      height: 470px
+      background-image: url(/images/match-action-02.jpg)
+      max-width: 1920px
 
   #screen
     position: relative
