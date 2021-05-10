@@ -1,12 +1,12 @@
 ---
-title: About AF
+title: Australian Football
 slug: what-is-australian-football
 menu:
   main:
     weight: 200
 ---
 
-# About Australian Rules Football
+# About Australian Football
 
 Outside its native country it is barely known,
 in Australia however it is more popular than any other sport.
@@ -34,6 +34,9 @@ and good team play is essential.
 
 The size of teams and pitch tops pretty much every other sport –
 18 players per team are competing on an oval field of up to 185 by 155 meters.
+In Germany, most matches are played with half the team size at the moment,
+on a pitch that is shrunk accordingly.
+
 They try to kick the (likewise oval) ball through the goal posts.
 To get near them, they may run with the ball
 or pass it to their team mates by kicking or handballing.
@@ -43,7 +46,7 @@ but only the player in possession of the ball may be attacked,
 and there are strict rules for that.
 Possession of the ball is generally disputed at all times.
 However, teams can win a free kick
-(and a few seconds of breathing space)
+(and with that, a few seconds of breathing time)
 when a ball that is kicked over a distance of at least 15 meters
 is caught directly out of the air.
 

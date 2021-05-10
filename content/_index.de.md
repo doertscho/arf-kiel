@@ -35,7 +35,8 @@ Weitere Informationen zum Sport findet ihr hier:
 Wir bauen Kiels ersten Verein für Australian Football auf,
 und wir laden euch ein, mitzumachen!
 Für fast alle von uns ist der Sport ebenso neu,
-und das Training ist auch für Neulinge geeignet.
+und wir gestalten das Training so,
+dass ihr mit jedem Stand mitmachen könnt.
 Probiert es aus –
 und wenn es euch gefällt,
 werdet Teil des Teams und vertretet Kiel in der deutschen Liga!

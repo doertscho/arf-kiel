@@ -1,5 +1,5 @@
 ---
-title: Über AF
+title: Australian Football
 slug: was-ist-australian-football
 menu:
   main:
@@ -24,15 +24,18 @@ und ist damit die größte Einzelsportveranstaltung der Welt.
 
 Australian Football – manchmal auch bekannt als Australian Rules Football oder Aussie Rules –
 kombiniert Elemente des europäischen Fußballs, Rugbys und anderer Ballsportarten.
-Der Legende nach wurde es außerdem von einem uralten Sport der australischen Ureinwohner beeinflusst.
+Der Legende nach wurde es außerdem von einem uralten Sport der indigenen Bevölkerung des Kontinents beeinflusst.
 Das Ergebnis ist ein vielseitiges, tempo- und actionreiches Spiel,
 in dem viele verschiedene Rollen und Spielweisen zusammenkommen und starkes Teamwork unerlässlich ist.
 
 ## Grundlegende Regeln
 
 Die Größe der Teams und des Spielfelds überragt die meisten anderen Sportarten:
-18 Spieler\*innen pro Team
-stehen sich auf einem bis zu 185x155m großen, ovalen Feld gegenüber.
+Bei den Profis stehen sich 18 Spieler\*innen pro Team
+auf einem bis zu 185x155m großen, ovalen Feld gegenüber.
+In Deutschland spielen wir zurzeit meist mit der halben Teamgröße
+und auf einem entsprechend verkleinerten Spielfeld.
+
 Sie versuchen, den ebenfalls ovalen Ball durch die Torstangen zu schießen.
 Um sich diesen anzunähern,
 darf mit dem Ball gelaufen werden
