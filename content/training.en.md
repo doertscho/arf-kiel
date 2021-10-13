@@ -8,24 +8,10 @@ menu:
 
 # Our training sessions in Kiel
 
-Training will be back on Monday, 17th of May 2021!
-From this day on,
-the federal state of Schleswig-Holstein will lift restrictions
-so that contact sport will be allowed in groups of up to ten.
-Depending on turnout, we'll split up into multiple groups.
-
-We'll be training every **Monday and Wednesday from 6pm**.
+During the cold part of the year (since October),
+we'll be training every **Sunday from 12 noon**.
 Our training ground is the Nordmarksportfeld public sports ground,
 close to Kiel university.
-
-## Notes regarding safety
-
-We are confident that it is safe to go ahead with our training.
-We gather outdoors on a large, open sports ground.
-It is in the nature of our sport that for most drills,
-there will be more than the required safety distance.
-We'll be collecting contact details of all participants,
-and we ask everyone to get tested before the training.
 
 ## Open for all!
 
@@ -40,7 +26,7 @@ like football boots with rubber studs.
 
 Please note that at the moment,
 the changing rooms, showers and toilets at the ground
-can not yet be used.
+are not available on a regular basis.
 
 View map on [Open Street Map](https://osm.org/go/0HsaQC7V?m=)
 or [Google Maps](https://goo.gl/maps/2CHFeakWwtCYmMzH8)

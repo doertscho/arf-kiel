@@ -12,14 +12,11 @@ At the moment you should check our
 [Instagram page](https://instagram.com/kiel_koalas)
 for the latest news!
 
-## We're back to the training ground! 
+## New training times for the cold part of the year
 
-Starting from the 17th May 2021,
-we'll be able to return to training.
-From this day on,
-the federal state of Schleswig-Holstein will lift restrictions
-so that contact sport will be allowed in groups of up to ten.
-Depending on turnout, we'll split up into multiple groups.
-Get in touch if you're interested in joining us!
-We can't wait to get back after such a long break,
-and we're probably not alone.
+Starting from October, we're switching to weekend training.
+Sunset is becoming too early for week night training.
+We'll be meeting every Sunday at 12 noon,
+at our regular training ground, the Nordmarksportfeld.
+During the week we'll be meeting up for other sports activities
+in smaller groups.
