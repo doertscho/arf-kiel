@@ -15,7 +15,6 @@
 
     {{ $style := resources.Get "sass/main.sass" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Patua+One&display=swap">
 
   </head>
   <body>
