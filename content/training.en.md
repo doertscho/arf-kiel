@@ -9,7 +9,7 @@ menu:
 # Our training sessions in Kiel
 
 During the cold part of the year (since October),
-we'll be training every **Sunday from 12 noon**.
+we'll be training every **Sunday from 1pm**.
 Our training ground is the Nordmarksportfeld public sports ground,
 close to Kiel university.
 
