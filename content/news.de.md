@@ -24,8 +24,8 @@ Kommt jederzeit gerne vorbei!
 ## Anstehende Termine
 
 Eine kurze Übersicht über unsere nächsten anstehenden Termine:
-- 7. Mai: Spieltag in Hamburg
-- 23. Mai: Spieltag in Dresden
-- 4. Juni: Spieltag in Kiel auf der Moorteichwiese
-- 25. Juni: Heimspiel unserer Frauen gegen Berlin, und dazu planen wir ein kleines Turnier anlässlich der Kieler Woche. Mehr dazu in Kürze!
-- 2. Juli: Heimspiel unserer Männer gegen Heidelberg
+- **7. Mai:** Spieltag in Hamburg
+- **23. Mai:** Spieltag in Dresden
+- **4. Juni:** Spieltag in Kiel auf der Moorteichwiese
+- **25. Juni:** Heimspiel unserer Frauen gegen Berlin, und dazu planen wir ein kleines Turnier anlässlich der Kieler Woche. Mehr dazu in Kürze!
+- **2. Juli:** Heimspiel unserer Männer gegen Heidelberg
