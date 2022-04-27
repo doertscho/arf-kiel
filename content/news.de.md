@@ -12,11 +12,20 @@ Momentan solltet ihr unsere [Instagram-Seite](https://instagram.com/kiel_koalas)
 besuchen,
 dort findet ihr unsere aktuellsten Meldungen!
 
-## Neue Trainingszeiten für die kalten Monate
+## Training ab jetzt wieder unter der Woche 
 
-Ab Anfang Oktober ändern wir unsere Trainingszeiten –
-das Tageslicht geht leider zu schnell zur Neige.
-Wir treffen uns jetzt regelmäßig am Sonntag um 12 Uhr mittags,
-an unserem gewohnten Trainingsort auf dem Nordmarksportfeld.
-Unter der Woche treffen wir uns in kleineren Gruppen
-für andere sportliche Aktivitäten.
+Mit der Zeitumstellung Ende März haben wir unter der Woche wieder
+lang genug Tageslicht, um trainieren zu können.
+Außerdem stehen an manchen Wochenenden jetzt Spieltage an.
+Wir trainieren darum ab sofort wieder montags und mittwochs
+ab 18 Uhr auf dem Nordmarksportfeld.
+Kommt jederzeit gerne vorbei!
+
+## Anstehende Termine
+
+Eine kurze Übersicht über unsere nächsten anstehenden Termine:
+- 7. Mai: Spieltag in Hamburg
+- 23. Mai: Spieltag in Dresden
+- 4. Juni: Spieltag in Kiel auf der Moorteichwiese
+- 25. Juni: Heimspiel unserer Frauen gegen Berlin, und dazu planen wir ein kleines Turnier anlässlich der Kieler Woche. Mehr dazu in Kürze!
+- 2. Juli: Heimspiel unserer Männer gegen Heidelberg
