@@ -96,4 +96,4 @@ building up the club, promoting the sport in Kiel,
 and getting to know the Australian Football community in Germany –
 get in touch, we appreciate any support!
 
-{{< inline-image "/images/team-after-training.jpg" >}}
+{{< inline-image "/images/team-hamburg-22.jpg" >}}

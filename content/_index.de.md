@@ -102,4 +102,4 @@ und die deutsche Footy-Community kennen zu lernen,
 dann freuen wir uns über eure Unterstützung!
 [Unser Verein]({{< relref "our-club" >}}).
 
-{{< inline-image "/images/team-after-training.jpg" >}}
+{{< inline-image "/images/team-hamburg-22.jpg" >}}
