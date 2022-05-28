@@ -5,9 +5,38 @@ menu:
     weight: 100
 ---
 
-# G'Day, Kiel! Wir suchen neue Koalas.
+# G'Day, Kiel!
+Wir sind Schleswig-Holsteins erster Verein für [Australian Football]({{< relref "about-arf" >}}).
 
-**Wir laden euch ein,
+## Unsere Events im Juni
+
+### Probetraining | Mi, 1.6.
+
+Kommt vorbei und probiert unseren Sport aus, wir suchen neue Koalas!
+Offen für alle – jedes Geschlecht, jedes Alter. 
+Ihr müsst keinerlei Erfahrung haben und es ist keine Mitgliedschaft erforderlich.
+Mitbringen müsst ihr auch nichts außer Sportkleidung und Wasser.
+Ideal sind Fußballschuhe, aber bitte keine Metallstollen.
+Beginn am **Mittwoch, den 1. Juni 2022** ist um **18:15 Uhr** auf dem Nordmarksportfeld.
+
+### Bundesliga-Spieltag | Sa, 4.6.
+
+Am **Samstag, den 4. Juni** steht der nächste Spieltag der AFL Germany an. 
+Wir bekommen Besuch von den Frankfurt Redbacks 
+und den amtierenden deutschen Meistern, den Berlin Crocodiles. 
+Wir spielen auf dem **Nordmarksportfeld**, 
+das erste Spiel beginnt um **14:00 Uhr**. Eintritt frei!
+
+### Kieler-Woche-Turnier | Sa, 25.6.
+
+Bald findet endlich wieder eine Kieler Woche im bekannten Format statt. 
+Wir veranstalten zu diesem Anlass am **25. Juni 2022** ein Turnier 
+mit Männer- und Frauen-Teams aus Berlin, Hamburg, Heidelberg, Kopenhagen und Kiel. 
+Wir spielen auf der **Moorteichwiese**, das erste Spiel beginnt um **13:00 Uhr**. Eintritt frei!
+
+## Wir suchen neue Koalas.
+
+**Wir laden euch herzlich ein,
 unseren Sport auszuprobieren: Australian Football.
 Noch nie davon gehört?
 Das macht überhaupt nichts.
@@ -18,7 +47,7 @@ Die dortige Profiliga findet sich unter den Top 5 der bestbesuchten Ligen weltwe
 In Deutschland jedoch kennt bisher kaum jemand die Sportart.
 **Das wollen wir ändern!**
 
-## Worum geht es hier?
+## Was ist Australian Football?
 
 Australian Football ist ein schneller, vielseitiger und actionreicher Sport.
 Für jede*n findet sich hier eine Rolle –
