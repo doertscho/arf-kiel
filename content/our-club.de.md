@@ -22,7 +22,7 @@ erfolgte die offizielle Gründung des
 **Kiel Koalas Australian Football Club e.V.**
 im „Gutenberg“ in Kiel.
 
-## Ziele
+## Unsere Ziele
 
 Das satzungsgemäße Ziel des Vereins ist es,
 die Sportart Australian Football in Kiel und Umgebung bekannter zu machen
@@ -33,16 +33,36 @@ Dazu wollen wir für alle Interessierten Möglichkeiten schaffen,
 den Sport auszuprobieren und zu erleben.
 
 Darüber hinaus sehen wir in der Arbeit von (allen) Sportvereinen großes Potenzial,
-Positives für uns und unser Umfeld zu bewirken.
+**Positives für uns und unser Umfeld zu bewirken**.
 Sport kann Menschen aus allen Teilen der Gesellschaft zusammenbringen,
 Verbindungen und Verständnis schaffen.
 Er kann Menschen motivieren und begeistern.
 Die Zusammenarbeit auf und neben dem Feld fördert Fähigkeiten und Werte,
 die in allen Bereichen des Lebens von Bedeutung sind.
 
+## Wir sind solidarisch organisiert
+
+Wir wollen allen Menschen die Mitgliedschaft in unserem Verein ermöglichen.
+Darum legen bei uns alle Mitglieder die Höhe ihres Beitrags selbst fest.
+**Alle zahlen nur so viel, wie sie sich problemlos leisten können.**
+Es gibt keinen Mindestbeitrag, ihr könnt auch **kostenlos** Mitglied werden.
+Wir stellen keine Fragen und verlangen keine Nachweise oder ähnliches.
+Die Höhe eures Beitrags bleibt geheim und ist nur euch und dem Vorstand bekannt.
+Und ihr könnt die Höhe eures Beitrags jederzeit ändern.
+
+Wir versuchen außerdem, unsere Spieler*innen finanziell zu unterstützen,
+wenn sie sich die Reisekosten zu Auswärtsspielen nicht ohne Weiteres leisten können.
+Leider können wir hier noch nicht garantieren,
+dass das immer möglich ist.
+Wir sind noch ein sehr kleiner Verein,
+und ebenso ist unsere Sportart in Deutschland noch sehr klein
+und alle Wettbewerbe werden ehrenamtlich organisiert.
+Wir sind aber fest entschlossen,
+die Teilnahme an Spielen für niemanden am Geld scheitern zu lassen.
+
 ## Wir freuen uns über jede Art von Unterstützung!
 
-Darum suchen wir nicht nur nach neuen Mitspieler*innen,
+Wir suchen nicht nur nach neuen Mitspieler*innen,
 sondern sind dankbar für jedes Engagement:
 Mithilfe beim Training oder bei Spielen,
 logistische Unterstützung,
@@ -52,9 +72,13 @@ wir freuen uns über alle Ideen!
 Und natürlich hilft uns auch eine finanzielle Unterstützung,
 sei es in Form einer passiven Mitgliedschaft oder einer einmaligen Spende.
 
-Um Vereinsmitglied zu werden und für Anfragen aller Art
+Um Vereinsmitglied zu werden,
+füllt einfach unser Anmeldeformular aus:  
+[arfk.de/mitglied-werden](http://www.arfk.de/mitglied-werden)
+
+Für weitere Fragen, und für Anfragen aller Art
 meldet euch bei uns per E-Mail an info@kiel-koalas.de
-oder über die sozialen Medien (siehe [Kontakt](/kontakt)).
+oder über die sozialen Medien (siehe [Kontakt]({{< relref "contact" >}})).
 
 ## Unser Leitbild
 
