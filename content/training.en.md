@@ -8,10 +8,12 @@ menu:
 
 # Our training sessions in Kiel
 
-During summer time (since April),
-we'll be training every **Monday and Wednesday from 6pm**.
+During winter time, we'll meet for training every **Sunday from 2pm**.
 Our training ground is the Nordmarksportfeld public sports ground,
 close to Kiel university.
+To be on the safe side, get in touch with us beforehand,
+as it may well be that some training sessions are cancelled
+due to bad weather or other reasons.
 
 ## Open for all!
 

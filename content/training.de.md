@@ -8,9 +8,12 @@ menu:
 
 # Training in Kiel
 
-Wir trainieren in der Sommerzeit (seit April) immer **montags und mittwochs ab 18 Uhr**.
+In der Winterzeit trainieren wir immer **sonntags ab 14 Uhr**.
 Das Training findet statt auf dem Nordmarksportfeld,
 nahe der Kieler Uni.
+Meldet euch am besten vorab bei uns,
+denn es kann gut sein,
+dass das Training bei schlechtem Wetter auch mal ausfällt.
 
 ## Offen für alle!
 

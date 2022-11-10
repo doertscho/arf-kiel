@@ -5,38 +5,7 @@ menu:
     weight: 100
 ---
 
-# G'Day Kiel! 
-We're the first [Australian Football]({{< relref "about-arf" >}}) club
-in the state of Schleswig-Holstein, in the far north of Germany.
-
-## Our events in June
-
-### Open training | Wed, 1st June
-
-Come along and try our sport, we're looking for new Koalas!
-Open for everyone - all genders, all ages.
-No experience needed, no membership required.
-All you need to bring is your sports outfit and some water.
-We recommend football boots if you have some, but please don't wear ones with metal studs.
-The session starts **Wednesday, 1st June 2022, 6:15pm** at the Nordmarksportfeld public sports ground.
-
-### League match day | Sa, 4.6.
-
-On Saturday, 4th June 2022, we're hosting the next match day of the AFL Germany.
-Our guests are the Frankfurt Redbacks and the reigning German champions, the Berlin Crocodiles.
-We're playing on the **Nordmarksportfeld** public sports ground.
-First match starts at **2pm**. Free entry!
-
-### Kieler Woche tournament | Sa, 25.6.
-
-Not long until Kieler Woche is back, one of the biggest public festivals in Germany!
-To mark the occasion, we're hosting a tournament
-featuring men's and women's teams
-from Berlin, Hamburg, Heidelberg, Copenhagen and Kiel.
-We're playing at **Moorteichwiese**, close to city center.
-First match on **Saturday, 25th June** starts at **1pm**. Free entry!
-
-## We're looking for new Koalas.
+# G'Day Kiel! We're looking for new Koalas.
 
 **We're inviting you all to get to know our sport: Australian Football.
 Never heard of it before? Don't worry, you're certainly not alone.**
