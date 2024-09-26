@@ -9,6 +9,7 @@ menu:
 # Training in Kiel
 
 In der Sommerzeit trainieren wir immer **montags und mittwochs ab 18 Uhr**.
+Ab dem 13. Oktober 2024 trainieren wir dann **sonntags um 11 Uhr**.
 Das Training findet statt auf dem Nordmarksportfeld,
 nahe der Kieler Uni.
 Sprecht uns gerne jederzeit an,
@@ -25,7 +26,7 @@ Für Rasen geeignete Schuhe sind von Vorteil,
 idealerweise Fußballschuhe mit Gumminoppen.
 
 Bitte beachtet, dass uns zurzeit leider in der Regel keine Umkleidekabinen
-oder Sanitäranlagen zur Verfügung stehen.
+zur Verfügung stehen.
 
 Karte aufrufen mit [Open Street Map](https://osm.org/go/0HsaQC7V?m=)
 oder [Google Maps](https://goo.gl/maps/2CHFeakWwtCYmMzH8)

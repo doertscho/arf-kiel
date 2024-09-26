@@ -9,6 +9,7 @@ menu:
 # Our training sessions in Kiel
 
 During summer time, we'll meet for training every **Monday and Wednesday from 6pm**.
+Starting from October 13, 2024, we'll switch to **Sundays at 11am**.
 Our training ground is the Nordmarksportfeld public sports ground,
 close to Kiel university.
 Contact us any time,
@@ -25,9 +26,9 @@ You don't really need to bring anything,
 but ideally you should have a pair of shoes that work well on grass,
 like football boots with rubber studs.
 
-Please note that at the moment,
-the changing rooms, showers and toilets at the ground
-are not available on a regular basis.
+Please note that we do not have access
+to the changing rooms and showers at the ground
+on a regular basis.
 
 View map on [Open Street Map](https://osm.org/go/0HsaQC7V?m=)
 or [Google Maps](https://goo.gl/maps/2CHFeakWwtCYmMzH8)
