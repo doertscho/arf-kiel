@@ -5,6 +5,25 @@ menu:
     weight: 100
 ---
 
+**Event announcement**
+
+{{< inline-image "/images/euro_cup_2024.png" >}}
+
+We're hosting the AFL Europe Euro Cup 2024 in Kiel!
+Games are on from morning till evening,
+we're expecting up to 500 players from across Europe
+and we hope to see many visitors 
+from Kiel and the surrounding area!
+Entry is free,
+food and drinks are available on site.
+For more updates and photos, follow our social media channels.
+
+> **When?** Saturday, 5 October 2024, 9:00–18:00  
+> **Where?** Nordmarksportfeld, Kiel  
+> **Free entry**
+
+---
+
 # G'Day Kiel! We're looking for new Koalas.
 
 **We're inviting you all to get to know our sport: Australian Football.

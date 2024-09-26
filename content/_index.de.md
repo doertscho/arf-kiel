@@ -5,6 +5,26 @@ menu:
     weight: 100
 ---
 
+**Eventankündigung**
+
+{{< inline-image "/images/euro_cup_2024.png" >}}
+
+Wir richten den AFL Europe Euro Cup 2024 in Kiel aus –
+die Europameisterschaft im Australian Football!
+Die Spiele laufen von morgens bis abends,
+wir erwarten bis zu 500 Spieler\*innen aus ganz Europa
+und freuen uns über zahlreiche Besucher\*innen
+aus Kiel und Umgebung!
+Der Eintritt ist frei,
+Essen und Getränke sind vor Ort erhältlich.
+Für mehr Updates und Fotos folgt unseren Social-Media-Kanälen.
+
+> **Wann?** Samstag, 5. Oktober 2024, 9:00–18:00 Uhr  
+> **Wo?** Nordmarksportfeld, Kiel  
+> **Eintritt frei**
+
+---
+
 # G'Day, Kiel! Wir suchen neue Koalas.
 
 **Wir laden euch herzlich ein,
